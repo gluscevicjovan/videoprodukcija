@@ -1,4 +1,4 @@
-User/agent:*
+User/agent: *
 disallow:
 
 sitemap: https://gluscevicjovan.github.io/videoprodukcija/sitemap.xml
